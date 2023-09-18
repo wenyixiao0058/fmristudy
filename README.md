@@ -9,4 +9,4 @@ this function processes fMRI data, calculates multiscale entropy, and saves the 
 Therefore, it contains multiscale_entropy4fmri.m function file to perform multiscale sample entropy calculation. 
 smmap.m file to generate relative sample entropy map and szmap.m file to generate standardized entropy map.
 
-svm
+svm_fmri.py is python script for further machine learning classification.
